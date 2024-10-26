@@ -1,4 +1,4 @@
-## 我是 captainbing 🌷
+## 我是 bingzhong 🌷
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - :pencil: [博客：](https://captainbing.github.io/) 个人学习笔记
